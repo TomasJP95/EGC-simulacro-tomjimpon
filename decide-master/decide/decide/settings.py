@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+#UVUS - tomjimpon
 # Application definition
 
 INSTALLED_APPS = [
